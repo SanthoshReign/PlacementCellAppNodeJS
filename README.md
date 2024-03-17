@@ -36,7 +36,7 @@ Open [http://localhost:3300](http://localhost:3300) to view it in your browser.
   ![Sign-In](./images/signin.png)
 
 - Student Page
-  ![Student-Page](./images/StudentList.png)
+  ![Student-Page](./images/studentList.png)
 
 - Interview Page
   ![Interview-Page](./images/CompanyList.png)
