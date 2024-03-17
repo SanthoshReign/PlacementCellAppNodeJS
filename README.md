@@ -1,5 +1,5 @@
 # NodeJS-Placement-Cell
- <h1 align="center">Placement Cell App 📝</h1> 
+ <h1 align="center">Placement Cell Web Application 📝</h1> 
 <p align="center">
  🖊️ A placement cell to keep records of students and schedule interviews with different companies <br>
      This App has built using <a href="https://ejs.co/">EJS</a>, <a href="https://www.mongodb.com/">MongoDB</a>, <a href="https://expressjs.com/">ExpressJs</a>, <a href="https://nodejs.org/en/">NodeJs</a> and <a href="http://www.passportjs.org/">PassportJS</a>
@@ -21,10 +21,6 @@ Open [http://localhost:3300](http://localhost:3300) to view it in your browser.
 
 <br/>
 <br/>
-
-## 🔗 Links
-
-> ## Checkout the Website Link : https://santhoshreign.github.io/ECom_ProductInventory_Nodejs/
 
 
 ## Screenshots
