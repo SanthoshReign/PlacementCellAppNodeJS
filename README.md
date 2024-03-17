@@ -30,22 +30,22 @@ Open [http://localhost:3300](http://localhost:3300) to view it in your browser.
 ## Screenshots
 
 - Sign Up
-  ![Sign-Up](./images/signup.PNG)
+  ![Sign-Up](./images/signup.png)
 
 - Sign In
-  ![Sign-In](./images/signin.PNG)
+  ![Sign-In](./images/signin.png)
 
 - Student Page
-  ![Student-Page](./images/StudentList.PNG)
+  ![Student-Page](./images/StudentList.png)
 
 - Interview Page
-  ![Interview-Page](./images/CompanyList.PNG)
+  ![Interview-Page](./images/CompanyList.png)
 
 - Add student
-  ![Add-Student](./images/AddStudents.PNG)
+  ![Add-Student](./images/AddStudents.png)
 
 - Schedule Interview
-  ![Interview](./images/ScheduleInterview.PNG)
+  ![Interview](./images/ScheduleInterview.png)
 
 ## Setup
 
